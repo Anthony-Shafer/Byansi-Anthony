@@ -1,2 +1,2 @@
 # Byansi-Anthony
-my UX portfolio
+My UX portfolio.
