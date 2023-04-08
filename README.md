@@ -1,2 +1,2 @@
 # Byansi-Anthony
-My UX portfolio for internship applications 
+My UX portfolio for internship applications. To be improved 
